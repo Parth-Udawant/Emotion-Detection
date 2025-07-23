@@ -28,10 +28,10 @@ Detect human emotions in real-time using deep learning and your webcam, built wi
 ![Emotion Detection Screenshot](screenshots/angry.png)
 
 ## 🧠 Tech Stack
-Python 3.10
-TensorFlow / Keras
-OpenCV
-Streamlit
+Python 3.10, 
+TensorFlow / Keras,
+OpenCV,
+Streamlit,
 FER-2013 Dataset
 
 
